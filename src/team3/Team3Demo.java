@@ -6,6 +6,10 @@ public class Team3Demo {
 		System.out.println("TEam3Demo");
 		
 		System.out.println("Hello Team Three");
+		
+		// lets see the changes
+		System.out.println("Hello World");
+
 	}
 
 }
