@@ -23,6 +23,10 @@ public class Team3Demo {
 	
 
 		System.out.println("Trying again...");
+		System.out.println("Trying again...");
+		System.out.println("Trying again...");
+		System.out.println("Trying again...");
+		System.out.println("Trying again...");
 
 
 	}
