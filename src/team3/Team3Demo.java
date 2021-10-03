@@ -7,6 +7,5 @@ public class Team3Demo {
 		
 		System.out.print("TeamThreeRocks");
 	}
-
 }
 
